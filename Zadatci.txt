@@ -1,0 +1,21 @@
+new laravel project +
+breeze auth + middleware +
+Model  + migracija, + 
+Controller, ++
+Dodaj u kontroler funkcije --
+Migracija ++
+Views using blade  ++ 
+
+Moras jos ispisati zadatake
+
+destroy ++
+
+ i create nisu definirani --
+
+/routes/web
+
+i navigacija --
+
+
+TODO app
+Update x to delete

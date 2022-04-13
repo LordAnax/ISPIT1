@@ -25,7 +25,7 @@
                 <form style="display: inline-block" action="{{ route('todo.destroy', $zadatak->id) }}" method="POST">
                   @csrf
                   @method('DELETE')
-                  <button title="Delete">Delete</button>
+                  <button title="Delete">X</button>
                 </form>
               </li>
               @endforeach

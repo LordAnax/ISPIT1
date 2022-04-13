@@ -39,7 +39,7 @@ class TodoController extends Controller
 
         $zadatak = new Todo();
         $zadatak->idKorisnika = $request->user()->id;
-        $zadatak->poruka = $request->zadatak;
+        $zadatak->zadatak = $request->zadatak;
         $zadatak->save();
 
         return redirect()->route('todo.index');
